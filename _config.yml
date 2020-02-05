@@ -17,8 +17,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-GB
-title: "K Blog"
-description: "Sharing the love"
+title: "Your have found Kaihaan's blog"
+description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://kaihaan.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
