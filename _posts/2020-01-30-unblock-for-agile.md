@@ -1,5 +1,5 @@
 ---
-title: "Good Work"
+title: "Unblocking for Agile"
 image: 
   path: /images/good_work_header.jpg
   thumbnail: /images/good_work_header_300x200.jpg
