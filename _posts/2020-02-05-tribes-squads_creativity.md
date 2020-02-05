@@ -1,3 +1,15 @@
+---
+title: "Tribes, Squads & Creativity"
+image: 
+  path: /images/tribesSquadsCreativity.jpg
+  thumbnail: /images/tribesSquadsCreativity_300x200.jpg
+  caption: "Tribes, Squads & Creativity"
+categories:
+  - Agile
+tags:
+  - Productivity
+last_modified_at: 2020-02-02T11:51:50-05:00
+---
 
 # Tribes, Squads & Creativity
 

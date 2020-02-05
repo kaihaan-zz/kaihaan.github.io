@@ -1,3 +1,15 @@
+---
+title: "The Slow Road"
+image: 
+  path: /images/theSlowRoad.jpg
+  thumbnail: /images/theSlowRoad_300x200.jpg
+  caption: "The Slow Road"
+categories:
+  - Agile
+tags:
+  - Productivity
+last_modified_at: 2020-02-02T11:51:50-05:00
+---
 
 # The Slow Road
 
