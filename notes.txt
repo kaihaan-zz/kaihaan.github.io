@@ -1,3 +1,10 @@
 theme from : https://github.com/mmistakes/so-simple-theme#layouts
 
 Force rebuild : git commit --allow-empty -m "Force rebuild of site"
+
+force github to rebuild;;;
+
+curl -X POST \
+    --header 'Accept: application/vnd.github.mister-fantastic-preview+json' \
+    -u "kaihaan" \
+    'https://api.github.com/repos/kaihaan/kaihaan.github.io/pages/builds'
